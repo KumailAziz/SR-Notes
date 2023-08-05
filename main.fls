@@ -1857,6 +1857,7 @@ INPUT .\Chapters\Chapter2.tex
 INPUT Chapters\Chapter2.tex
 INPUT .\Chapters\Chapter2.tex
 INPUT Chapters\Chapter2.tex
+INPUT C:\Users\kkuaz\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
 INPUT .\Chapters\Chapter3.tex
 INPUT .\Chapters\Chapter3.tex
 INPUT .\Chapters\Chapter3.tex
@@ -1907,7 +1908,6 @@ INPUT .\Appendices\AppendixA.tex
 INPUT Appendices\AppendixA.tex
 INPUT .\Appendices\AppendixA.tex
 INPUT Appendices\AppendixA.tex
-INPUT C:\Users\kkuaz\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
 INPUT C:\Users\kkuaz\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT main.aux
 INPUT .\Chapters\Foreword.aux
