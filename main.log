@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.5.22)  27 JUN 2023 18:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.5.22)  5 AUG 2023 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/kkuaz/Desktop/Special Relativity Notes/main.tex"
-(c:/Users/kkuaz/Desktop/Special Relativity Notes/main.tex
+**"c:/Users/kkuaz/Desktop/Special Relativity/Special Relativity Notes/main.tex"
+(c:/Users/kkuaz/Desktop/Special Relativity/Special Relativity Notes/main.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (C:\Users\kkuaz\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
@@ -1301,7 +1301,7 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 758.
  (C:\Users\kkuaz\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux) (Chapters/Chapter3.aux) (Chapters/Chapter4.aux))
+) (main.aux (Chapters/Foreword.aux) (Chapters/Chapter1.aux) (Chapters/Chapter2.aux) (Chapters/Chapter3.aux) (Chapters/Chapter4.aux) (Chapters/Chapter5.aux) (Chapters/Afterword.aux) (Appendices/AppendixA.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 758.
@@ -1459,53 +1459,81 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
  [1
 
 {C:/Users/kkuaz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+\openout2 = `Chapters/Foreword.aux'.
+
+ (Chapters/Foreword.tex) [3
+
+]
 \openout2 = `Chapters/Chapter1.aux'.
 
- (Chapters/Chapter1.tex) [3
+ (Chapters/Chapter1.tex) [4
+
+
 
 ]
 \openout2 = `Chapters/Chapter2.aux'.
 
- (Chapters/Chapter2.tex) [4
+ (Chapters/Chapter2.tex) [5
 
 
 
 ]
 \openout2 = `Chapters/Chapter3.aux'.
 
- (Chapters/Chapter3.tex) [5
+ (Chapters/Chapter3.tex) [6
 
 
 
 ]
 \openout2 = `Chapters/Chapter4.aux'.
 
- (Chapters/Chapter4.tex) [6
+ (Chapters/Chapter4.tex) [7
 
 
 
-] [7
+]
+\openout2 = `Chapters/Chapter5.aux'.
+
+ (Chapters/Chapter5.tex) [8
 
 
-] (main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux) (Chapters/Chapter3.aux) (Chapters/Chapter4.aux))
+
+]
+\openout2 = `Chapters/Afterword.aux'.
+
+ (Chapters/Afterword.tex) [9
+
+
+
+]
+\openout2 = `Appendices/AppendixA.aux'.
+
+ (Appendices/AppendixA.tex) [10
+
+
+
+] [11
+
+
+] (main.aux (Chapters/Foreword.aux) (Chapters/Chapter1.aux) (Chapters/Chapter2.aux) (Chapters/Chapter3.aux) (Chapters/Chapter4.aux) (Chapters/Chapter5.aux) (Chapters/Afterword.aux) (Appendices/AppendixA.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E5C1D857AF558806C3019EE9FBB607D9;7058.
+(rerunfilecheck)             Checksum: 571C18089D22DBA6E60076B72C881A73;6326.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58013 strings out of 475385
- 1337322 string characters out of 2776907
- 2227985 words of memory out of 3000000
- 78294 multiletter control sequences out of 15000+600000
+ 58119 strings out of 475385
+ 1342381 string characters out of 2776907
+ 2237412 words of memory out of 3000000
+ 78372 multiletter control sequences out of 15000+600000
  533095 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,7n,99p,2018b,2271s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 90i,7n,99p,2037b,2271s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (7 pages, 213398 bytes).
+Output written on main.pdf (11 pages, 214342 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 533 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 362 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 485 words of extra memory for PDF output out of 10000 (max. 10000000)
 
