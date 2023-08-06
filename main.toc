@@ -16,23 +16,23 @@
 \contentsline {subsection}{\numberline {2.5}Lorentz Transformations}{5}{subsection.2.5}%
 \contentsline {subsubsection}{\numberline {2.5.1}Properties}{5}{subsubsection.2.5.1}%
 \contentsline {subsubsection}{\numberline {2.5.2}Addition of velocities}{5}{subsubsection.2.5.2}%
-\contentsline {section}{\numberline {3}Spacetime Diagrams}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Introduction}{6}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Speed of light invariants, rest, constant velocity}{6}{subsubsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.2}Cause and Effect}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Invariants}{6}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Examples}{6}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Addition of velocities}{6}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Algebric treatment - as in David Tong's Notes}{6}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.3}Lorentz transformations as an "exotic" rotation}{6}{subsubsection.3.4.3}%
-\contentsline {section}{\numberline {4}Paradoxes of SR}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Pole in Barn}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Twin Paradox}{7}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Dr. Jawad's Train Tunnel paradox}{7}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Relativistic Kinematics}{8}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Relativistic Mass}{8}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Momentum}{8}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Force and Energy}{8}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Solved Example: Compton Scattering}{8}{subsection.5.4}%
-\contentsline {section}{\numberline {A}Appendix A}{10}{appendix.A}%
-\contentsline {section}{References}{11}{section*.1}%
+\contentsline {section}{\numberline {3}Spacetime Diagrams}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Speed of light invariants, rest, constant velocity}{7}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Cause and Effect}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Invariants}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Examples}{7}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Addition of velocities}{7}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Algebric treatment - as in David Tong's Notes}{7}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Lorentz transformations as an "exotic" rotation}{7}{subsubsection.3.4.3}%
+\contentsline {section}{\numberline {4}Paradoxes of SR}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Pole in Barn}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Twin Paradox}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Dr. Jawad's Train Tunnel paradox}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Relativistic Kinematics}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Relativistic Mass}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Momentum}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Force and Energy}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Solved Example: Compton Scattering}{9}{subsection.5.4}%
+\contentsline {section}{\numberline {A}Appendix A}{11}{appendix.A}%
+\contentsline {section}{References}{12}{section*.1}%

@@ -28,3 +28,57 @@ The answer is that because the difference is very very small to notice.
 \subsection{Lorentz Transformations}
 \subsubsection{Properties}
 \subsubsection{Addition of velocities}
+\textcolor{purple}{This subsubsection is from \textit{Combining velocities} to \textit{Combining velocities: Example in 3D}.}
+
+The expectation of adding velocities: \\
+If you run towards(away) a light beam with speed v, then the relative light speed to you with is $c+v(c-v)$. And this is wrong!
+
+It will be like this:
+\[ w-v \rightarrow \frac{w-v}{1-vw/c^2}\]
+\[ w+v \rightarrow \frac{w+v}{1+vw/c^2}\]
+
+The proof is: the cheeta example.. See it later..
+
+Platform:- \\
+The cheeta $(t, wt)$; You $(t, vt)$ \\
+So, what is the speed of cheeta from your perspective?
+
+\[ t' = \gamma (t - vx/c^2) = \gamma (t - v/c^2 \bullet wt) = \gamma t(t - vw/c^2) \]
+\[ x' = \gamma (x - vt) = \gamma (wt - vt) = \gamma t(w - v) \]
+
+Thus, the cheeta speed from your perspective is $\frac{x'}{t'}$: 
+\[ = \frac{\gamma t(w - v)}{\gamma t(t - vw/c^2)} = \frac{(w - v)}{(t - vw/c^2)} \]
+
+What we have done is for one dimensino, what if the moving object moves in 3D? For instance, if the train frame has a velocity v in direction x,
+and the object moves in the platform with \textbf{w}, $(w_x, w_y, w_z)$. Our goal now is to find the velocity of the object from the perspective of 
+the train?
+
+Platform: $(t, w_x t, w_y t, w_z t)$
+Train: $(t', x', y', z') = (\gamma (t-vw_x t/c^2), \gamma (w_x t - vt), w_y t, w_z t)$
+
+\[ w'_x = \frac{\gamma (w_x t - vt)}{\gamma (t-vw_x t/c^2)} = \frac{(w_x - v)}{(t - vw_x/c^2)}\]
+\[ w'_y = \frac{w_y t}{\gamma (t-vw_y t/c^2)} = \frac{w_y}{\gamma (t-vw_y/c^2)} \]
+\[ w'_z = \frac{w_z t}{\gamma (t-vw_z t/c^2)} = \frac{w_z}{\gamma (t-vw_z/c^2)} \]
+
+\textbf{Example: 1D} \\
+Graice runs by George at $0.8c$ and yells "tag, your it". He then runs after her at $0.7c$. From his perspective, how quickly is she getting away?
+\textcolor{blue}{Draw a schematic figure.}
+
+Solution:\\
+Graice's velocity: $w=0.8c$ \\
+George's velocity: $v=0.7c$ \\
+
+\[ \frac{w-v}{1-wv/c^2} = \frac{0.8c - 0.7c}{1-0.56} = 0.23c\]
+
+\textbf{Example: 3D} \\
+Graice turns a sharp corner, and now runs at $0.8c$ north, while George still runs at $0.7c$ due east. From George's perspective, what is Graice's
+velocity now?
+\textcolor{blue}{Draw a schematic figure.}
+
+Solution: \\
+Graice's velocity: $\overrightarrow{w}=(0,0.8c,0)$ \\
+George's velocity: $\overrightarrow{v}=(0.7c,0,0)$ \\
+
+\[ (\frac{(w_x - v)}{(t - vw_x/c^2)}, \frac{w_y}{\gamma (t-vw_y/c^2)}, \frac{w_z}{\gamma (t-vw_z/c^2)})\]
+\[ = (\frac{0-0.7c}{1-0},\frac{0.8c}{1.4*(1-0)},0)\]
+\[= (-0.7c, 0.57c, 0)\]

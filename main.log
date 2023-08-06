@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.5.22)  5 AUG 2023 17:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.5.22)  6 AUG 2023 22:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1473,46 +1473,56 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ]
 \openout2 = `Chapters/Chapter2.aux'.
 
- (Chapters/Chapter2.tex) [5
+ (Chapters/Chapter2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
+
+ []
+
+[5
 
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+ []
+
+) [6]
 \openout2 = `Chapters/Chapter3.aux'.
 
- (Chapters/Chapter3.tex) [6
+ (Chapters/Chapter3.tex) [7
 
 
 
 ]
 \openout2 = `Chapters/Chapter4.aux'.
 
- (Chapters/Chapter4.tex) [7
+ (Chapters/Chapter4.tex) [8
 
 
 
 ]
 \openout2 = `Chapters/Chapter5.aux'.
 
- (Chapters/Chapter5.tex) [8
+ (Chapters/Chapter5.tex) [9
 
 
 
 ]
 \openout2 = `Chapters/Afterword.aux'.
 
- (Chapters/Afterword.tex) [9
+ (Chapters/Afterword.tex) [10
 
 
 
 ]
 \openout2 = `Appendices/AppendixA.aux'.
 
- (Appendices/AppendixA.tex) [10
+ (Appendices/AppendixA.tex) [11
 
 
 
-] [11
+] [12
 
 
 ] (main.aux (Chapters/Foreword.aux) (Chapters/Chapter1.aux) (Chapters/Chapter2.aux) (Chapters/Chapter3.aux) (Chapters/Chapter4.aux) (Chapters/Chapter5.aux) (Chapters/Afterword.aux) (Appendices/AppendixA.aux))
@@ -1523,17 +1533,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58117 strings out of 475385
- 1342341 string characters out of 2776907
- 2237412 words of memory out of 3000000
- 78371 multiletter control sequences out of 15000+600000
- 533095 words of font info for 72 fonts, out of 8000000 for 9000
+ 58120 strings out of 475385
+ 1342371 string characters out of 2776907
+ 2237413 words of memory out of 3000000
+ 78372 multiletter control sequences out of 15000+600000
+ 536090 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,7n,99p,2037b,2271s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (11 pages, 217254 bytes).
+ 90i,14n,99p,2037b,2271s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy5.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/kkuaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (12 pages, 280191 bytes).
 PDF statistics:
- 357 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
+ 386 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
  477 words of extra memory for PDF output out of 10000 (max. 10000000)
 
